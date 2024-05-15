@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/praveensiva/static/css/main.a28c14e3.css",
+    "main.js": "/praveensiva/static/js/main.314dd428.js",
+    "static/js/453.20419cad.chunk.js": "/praveensiva/static/js/453.20419cad.chunk.js",
+    "static/media/home_pic_2.jpg": "/praveensiva/static/media/home_pic_2.a86e187f81fed132ed06.jpg",
+    "static/media/Praveenkumar_S_Resume.pdf": "/praveensiva/static/media/Praveenkumar_S_Resume.d41e92e477db11815d7b.pdf",
+    "static/media/female.png": "/praveensiva/static/media/female.3f889d0af5f26871fbcc.png",
+    "static/media/male.png": "/praveensiva/static/media/male.ba3e9327f074cac4e49e.png",
+    "static/media/icon.svg": "/praveensiva/static/media/icon.fa01d49d0cecf532c92aed9330edfb19.svg",
+    "index.html": "/praveensiva/index.html",
+    "main.a28c14e3.css.map": "/praveensiva/static/css/main.a28c14e3.css.map",
+    "main.314dd428.js.map": "/praveensiva/static/js/main.314dd428.js.map",
+    "453.20419cad.chunk.js.map": "/praveensiva/static/js/453.20419cad.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a28c14e3.css",
+    "static/js/main.314dd428.js"
+  ]
+}
