@@ -53,7 +53,7 @@ const Services = () => {
             <div className="services__content">
                 <div>
                     <i className="uil uil-arrow services__icon"></i>
-                    <h3 className="services__title">Pyhton projects</h3>
+                    <h3 className="services__title">Python projects</h3>
                 </div>
 
                 <span href="#" className="services__button" onClick={() => toggleTab(2)}>View More {" "}
