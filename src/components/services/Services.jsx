@@ -53,7 +53,7 @@ const Services = () => {
             <div className="services__content">
                 <div>
                     <i className="uil uil-arrow services__icon"></i>
-                    <h3 className="services__title">Pyhton projects</h3>
+                    <h3 className="services__title">Python projects</h3>
                 </div>
 
                 <span href="#" className="services__button" onClick={() => toggleTab(2)}>View More {" "}
@@ -64,7 +64,7 @@ const Services = () => {
                     <div className="services__modal-content">
                         <i className="uil uil-times services__modal-close" onClick={() => toggleTab(0)}></i>
 
-                        <h3 className="services__modal-title">Pyhton projects</h3>
+                        <h3 className="services__modal-title">Python projects</h3>
                         <p className="services__modal-description">Service with more than 2 years of Experience. Providing Quality work to clients and Companies</p>
 
                         <ul className="services__modal-services grid">

@@ -31,9 +31,6 @@
     background-color: var(--text-color) !important;
 }
 
-.swiper-pagination-bullet-active{
-    background-color: var(--secondary-color) !important;
-}
 
 /* Breakpoints */
 /* For all large devices */
